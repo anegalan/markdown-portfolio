@@ -1,3 +1,6 @@
-Replace this with your name, and include a header.
-# <h1> Welcome!
-  # <h2> I am Ane :)
+I'm Ane, welcome to my webpage!
+# <h1> Who am I?
+  # <h2> My hobbies 
+    # <h3> Sport
+    # <h3> Traveling 
+  # <h2> My studies 
